@@ -1,0 +1,7 @@
+baseURL = 'https://lhpqaq.github.io'
+languageCode = 'zh-cn'
+defaultContentLanguage = "zh"
+title = 'lhpqaq'
+theme = "dream"
+[params]
+avatar = "https://avatars.githubusercontent.com/u/63844184?v=4"
